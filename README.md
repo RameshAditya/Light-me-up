@@ -1,5 +1,17 @@
 # Light Me Up
 
+An application which recognizes your emotion, and tints the lighting of connected LEDs appropriately to match your mood. 
+*('cause who doesn't want their life to have appropriate special effects)*
+
+:disappointed: Sad? Blue.
+
+:angry: Angry? Red. 
+
+:neutral_face: Neutral? Yellow. 
+
+:smiley: Happy? Pink.
+
+
 Modules needed:
 * OpenCV 2.4.9
 * Python 2.7
